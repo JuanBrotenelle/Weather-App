@@ -1,6 +1,6 @@
 # test - weather app on vue js
  
-i just want to know how vue js works. i think it is powerful framework.
+i just would like to know how vue js works. i think it is powerful framework.
 
 | Command    | Description               |
 |---------   |------------               |
